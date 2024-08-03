@@ -5,7 +5,7 @@ namespace BetterOmegaWarhead
 {
     public class Plugin : Plugin<Config>
     {
-        public override string Author { get; } = "ClaudioPanConQueso";
+        public override string Author { get; } = "ClaudioPanConQueso (Updated by Robocnop)";
         public override string Name { get; } = "BetterOmegaWarhead";
         public override string Prefix { get; } = "BetterOmegaWarhead";
         public override Version Version { get; } = new Version(1, 0, 9);
